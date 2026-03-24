@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy estudiante de 1º de DAM
 
-<!--
-**albabustamante98/albabustamante98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy construyendo mi base técnica como programadora y buscando mi primera oportunidad de prácticas para seguir creciendo y aprendiendo de profesionales del sector.
 
-Here are some ideas to get you started:
+🌱 **Cómo trabajo:**
+Me considero una persona proactiva y responsable con mis proyectos. Cuando el código falla, le echo mucha paciencia hasta que compila, y creo que la empatía es fundamental para encajar bien y sumar en cualquier equipo de trabajo. ¡Tengo muchísimas ganas de seguir aprendiendo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Lo que estoy aprendiendo en mi primer año:**
+* **Programación (Java / Python / JS):** Lógica, control de errores y Orientación a Objetos.
+* **Lenguajes de Marcas (HTML / CSS):** Estructura y diseño web.
+* **Bases de Datos (SQL):** Creación de tablas, relaciones y consultas.
+* **Entornos de Desarrollo:** Control de versiones con Git, GitHub y uso de herramientas.
+* **Sistemas Informáticos (Bash / Linux):** Manejo de la terminal y comandos del sistema operativo.
+
+¡Abajo puedes ver mis primeros proyectos reales fijados! 👇
