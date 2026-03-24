@@ -1,15 +1,24 @@
-# ¡Hola! 👋 Soy estudiante de 1º de DAM
+# 👋 Hola, soy Alba
 
-Actualmente estoy construyendo mi base técnica como programadora y buscando mi primera oportunidad de prácticas para seguir creciendo y aprendiendo de profesionales del sector.
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en Valencia.
 
-🌱 **Cómo trabajo:**
-Me considero una persona proactiva y responsable con mis proyectos. Cuando el código falla, le echo mucha paciencia hasta que compila, y creo que la empatía es fundamental para encajar bien y sumar en cualquier equipo de trabajo. ¡Tengo muchísimas ganas de seguir aprendiendo!
+💻 Actualmente desarrollando proyectos en Java, Python y JavaScript, enfocados en lógica de programación, estructuras de datos y Programación Orientada a Objetos.
 
-💻 **Lo que estoy aprendiendo en mi primer año:**
-* **Programación (Java / Python / JS):** Lógica, control de errores y Orientación a Objetos.
-* **Lenguajes de Marcas (HTML / CSS):** Estructura y diseño web.
-* **Bases de Datos (SQL):** Creación de tablas, relaciones y consultas.
-* **Entornos de Desarrollo:** Control de versiones con Git, GitHub y uso de herramientas.
-* **Sistemas Informáticos (Bash / Linux):** Manejo de la terminal y comandos del sistema operativo.
+## 🛠️ Tecnologías
+- Java
+- Python
+- JavaScript (Node.js)
+- HTML, CSS
+- SQL
+- Git, GitHub
+- Linux / Bash
 
-¡Abajo puedes ver mis primeros proyectos reales fijados! 👇
+## 📂 Proyectos destacados
+- Sistema de gestión académica (Node.js)
+- Gestor de notas en consola (Python)
+- Sistema de gestión de vehículos (Java)
+
+## 🚀 Sobre mí
+Compagino mi formación en DAM con el desarrollo de proyectos propios para mejorar mis habilidades técnicas. Me enfoco en escribir código claro, estructurado y en resolver problemas de forma práctica.
+
+📫 Contacto: albabustamanteblasco98@gmail.com
