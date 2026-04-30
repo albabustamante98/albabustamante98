@@ -14,9 +14,9 @@
 - Linux / Bash
 
 ## 📂 Proyectos destacados
+- Sistema de gestión de vehículos (Java - MVC/JDBC)
+- Aplicación de productividad FocusLife (JavaScript)
 - Sistema de gestión académica (Node.js)
-- Gestor de notas en consola (Python)
-- Sistema de gestión de vehículos (Java)
 
 ## 🚀 Sobre mí
 Compagino mi formación en DAM con el desarrollo de proyectos propios para mejorar mis habilidades técnicas. Me enfoco en escribir código claro, estructurado y en resolver problemas de forma práctica.
