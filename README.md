@@ -1,25 +1,12 @@
-
 <h1 align="center">¡Hola! Soy Alba Bustamante 👋</h1>
 <h3 align="center">⚙️ Backend & Data Developer en construcción | 1º DAM</h3>
 
----
 
-### 💫 Un poco sobre mí
+🎯 **Mi objetivo:** Especializarme en el ecosistema **Backend y la Gestión de Datos**.
 
-> 🎯 **Mi objetivo:** Especializarme en el ecosistema **Backend y la Gestión de Datos**.
->
-> 🎓 Acabo de cerrar mi primer año de DAM con un **expediente de 10/10** 🏆. A nivel personal, destaco por mi proactividad, mi empatía para trabajar en equipo y, sobre todo, por tener la paciencia necesaria para pelearme con la lógica hasta que el código queda limpio y estructurado.
->
-> 🚀 Busco equipo para formalizar mis prácticas (FCT) o empezar como Trainee a partir de **febrero de 2027** (Remoto o Presencial en Valencia).
+🎓 Acabo de cerrar mi primer año de DAM con un **expediente de 10/10** 🏆. A nivel personal, destaco por mi proactividad, mi empatía para trabajar en equipo y, sobre todo, por tener la paciencia necesaria para pelearme con la lógica hasta que el código queda limpio y estructurado.
 
----
-
-### 📊 Mis Estadísticas de Código
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albabustamante98&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true" width="48%" alt="Estadísticas de Alba">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albabustamante98&layout=compact&hide_border=true&theme=nord&langs_count=6" width="48%" alt="Lenguajes más usados">
-</div>
+🚀 Busco equipo para formalizar mis prácticas (FCT) o empezar como Trainee a partir de **febrero de 2027** (Remoto o Presencial en Valencia).
 
 ---
 
