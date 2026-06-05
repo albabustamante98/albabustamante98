@@ -65,7 +65,8 @@ Aquí tienes el código real que he estado picando este año. Todo organizado y 
 | 🚀 Proyecto | 💻 Tecnologías | 📝 Qué he hecho |
 | :--- | :--- | :--- |
 | **[🚙 Gestión de Vehículos](https://github.com/albabustamante98/Gestion-Vehiculos-MVC-JDBC)** | `Java` `MySQL` `JDBC` | Aplicación CRUD completa aplicando **Arquitectura MVC** y **Patrón DAO**. Incluye interfaz dual (consola y gráfica). |
-| **[⏱️ FocusLife](https://github.com/albabustamante98/FocusLife)** | `HTML` `CSS` `JS` | Single Page Application (SPA) para productividad con persistencia de datos en **LocalStorage** y un diseño Glassmorphism. |
+| **[⏱️ FocusLife](https://github.com/albabustamante98/FocusLife)** | `HTML` `CSS` `JS` | Single Page Application (SPA) para productividad con persistencia de datos en **LocalStorage** y diseño Glassmorphism. |
+| **[✈️ Viajes Invernales](https://github.com/albabustamante98/web-viajes-portfolio)** | `HTML` `CSS` | Portfolio profesional de turismo con diseño **Glassmorphism**, animaciones CSS y estructura multi-página. |
 | **[📝 Gestor de Notas](https://github.com/albabustamante98/gestor-notas-portfolio)** | `Python` | App de consola con menú interactivo para gestión, búsqueda y filtrado lógico de notas. |
 | **[🧑🏽‍🎓 Gestión Académica](https://github.com/albabustamante98/gestion-academica-node)** | `JavaScript` `Node.js` | Sistema de registro de estudiantes con validaciones profundas en el backend. |
 
